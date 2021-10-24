@@ -1,0 +1,724 @@
+13:35:34 From  19127177_NguyenDangKhoa  to  Everyone:
+	demo lấy data từ web ạ
+15:36:39 From  19127177_NguyenDangKhoa  to  Everyone:
+	lấy ngẫu nhiên 100 người trong khu vực đó ạ
+15:37:25 From  19127082_Nguyễn Tất Trường  to  Everyone:
+	dựa vào bảng lương của các công ty ạ
+15:37:51 From  19127400_Lã Minh Hiếu  to  Everyone:
+	Lấy thông tin mức lương mỗi cư dân trải đều của TP HCM với đủ các ngành nghề và tính trung bình
+15:38:22 From  Phát Ngô Quốc  to  Everyone:
+	em nghĩ là nên tìm hiểu theo từng phường
+15:38:27 From  Phát Ngô Quốc  to  Everyone:
+	từng khu vực sống
+15:38:42 From  19127645_Bùi Đăng Khoa  to  Everyone:
+	lấy thuế thu nhập cá nhân của mỗi người ở trung tâm Bảo hiểm xã hội
+15:38:45 From  19127642_Võ Nhất Huy  to  Everyone:
+	Lấy từ thuế thu nhập cá nhân, rồi tính ngược ra sau đó tính trung bình ạ
+15:38:48 From  19127177_NguyenDangKhoa  to  Everyone:
+	khi lấy dữ liệu thì mình nên lấy thu nhập trong tháng gần nhất
+15:39:22 From  19127021 Ho Anh Dung  to  Everyone:
+	lấy GDP
+15:40:04 From  18127133 - La Hoàng Long  to  Everyone:
+	dạ em thấy ko khả thi ạ
+15:40:05 From  19127400_Lã Minh Hiếu  to  Everyone:
+	dạ ok
+15:40:15 From  19127082_Nguyễn Tất Trường  to  Everyone:
+	chi phí cao
+15:40:37 From  19127639 Phan Vĩ Giai  to  Everyone:
+	chi phí lớn, với nhiều dân không có hộ khuẩ ở đây
+15:40:42 From  Trần Hoàng Nam - 19127481  to  Everyone:
+	cái này chắc chỉ có làm cho chính phủ mới đủ khả năng chứ doanh nghiệp thường thì không đủ thông tin :v
+15:40:43 From  Phát Ngô Quốc  to  Everyone:
+	ko bao quát được mọi tầng lớp
+15:40:51 From  19127639 Phan Vĩ Giai  to  Everyone:
+	ngta đi đi về về ạ
+15:40:51 From  19127400_Lã Minh Hiếu  to  Everyone:
+	có giới hạn là thu thập được a :v
+15:41:38 From  19127639 Phan Vĩ Giai  to  Everyone:
+	dạ
+15:42:34 From  19127347_ Kiều Hải Đăng  to  Everyone:
+	có nhiều người không có đủ khả năng để cung cấp thông tin cho mình nữa ạ ví dụ: bệnh nói chung, khó tính mà đa số họ là người có thu nhập thấp ạ
+15:42:38 From  18127133 - La Hoàng Long  to  Everyone:
+	dạ đúng ạ
+15:43:13 From  19127639 Phan Vĩ Giai  to  Everyone:
+	có khi mỗi thnags thu nhập không giống nhau nữa ạ
+15:51:02 From  19127347_ Kiều Hải Đăng  to  Everyone:
+	mô tả ạ
+15:51:02 From  19127400_Lã Minh Hiếu  to  Everyone:
+	Descriptive statistics
+15:51:03 From  19127281-T.M.Thiện  to  Everyone:
+	thống kê mô tả ạ
+15:51:03 From  19127358 Nguyễn Trọng Đạt  to  Everyone:
+	mô tả
+15:51:03 From  19127403 - Nguyễn Trung Hiếu  to  Everyone:
+	thống kê mô tả trong lớp
+15:51:03 From  19127037 - Võ Bách Khôi  to  Everyone:
+	mô tả
+15:51:03 From  19127074 - Nguyễn Ngọc Uyên Trang  to  Everyone:
+	Mô tả
+15:51:04 From  19127083 Nguyễn Hữu Tuấn  to  Everyone:
+	mo ta a
+15:51:04 From  19127177_NguyenDangKhoa  to  Everyone:
+	mô tả a
+15:51:04 From  19127593 - Lê Tiến Trí  to  Everyone:
+	dạ mô tả
+15:51:04 From  19127472 - Nguyễn Bá Minh  to  Everyone:
+	mô tả
+15:51:05 From  19127094 - Phạm Ngọc Thiên Ân  to  Everyone:
+	descriptive
+15:51:05 From  19127082_Nguyễn Tất Trường  to  Everyone:
+	mô tả
+15:51:07 From  19127587 Trương Chí Toàn  to  Everyone:
+	mô tả
+15:51:07 From  19127516  - Trần Xuân Phước  to  Everyone:
+	mô tả
+15:51:07 From  19127021 Ho Anh Dung  to  Everyone:
+	mô tả
+15:51:07 From  19127326-V.T.An  to  Everyone:
+	mô tả
+15:51:08 From  19127078_Nguyễn Đỗ Thanh Trúc  to  Everyone:
+	mô tả
+15:51:09 From  19127630- Trần Quốc Việt  to  Everyone:
+	mô tả
+15:51:09 From  19127154_Nguyễn Thế Hưng  to  Everyone:
+	mô tả
+15:51:10 From  19127399 - Huỳnh Cao Nhật Hiếu  to  Everyone:
+	mô tả
+15:51:10 From  19127645_Bùi Đăng Khoa  to  Everyone:
+	mô tả
+15:51:10 From  19127444  Ngô Đăng Khoa  to  Everyone:
+	mô tả
+15:51:10 From  Trần Hoàng Nam - 19127481  to  Everyone:
+	mô tả
+15:51:10 From  19127353 - Lê Tấn Đạt  to  Everyone:
+	mô tả ạ
+15:51:11 From  19127518 - Lê Hoàng Thịnh Phước  to  Everyone:
+	mô tả ạ
+15:51:13 From  19127519_Nguyễn Ngọc Phước  to  Everyone:
+	mo ta
+15:51:14 From  19127330-L.T.Anh  to  Everyone:
+	mô tả
+15:51:14 From  19127562_Chung Thế Thọ  to  Everyone:
+	mô tả
+15:51:16 From  Phát Ngô Quốc  to  Everyone:
+	mô tả
+15:51:16 From  19127473 - Nguyễn Tấn Minh  to  Everyone:
+	mô tả
+15:51:17 From  19127134 - Nguyễn Gia Hân  to  Everyone:
+	mô tả
+15:51:18 From  19127639 Phan Vĩ Giai  to  Everyone:
+	mô tả
+15:51:19 From  Trần Nguyên Trung - 19127607  to  Everyone:
+	mô tả
+15:51:20 From  19127332_NguyenNamAnh  to  Everyone:
+	mô tả
+15:51:30 From  19127474 - Phạm Cao Minh  to  Everyone:
+	mô tả
+15:51:46 From  19127639 Phan Vĩ Giai  to  Everyone:
+	suy diễn
+15:51:47 From  19127403 - Nguyễn Trung Hiếu  to  Everyone:
+	Suy diễn
+15:51:48 From  Trần Nguyên Trung - 19127607  to  Everyone:
+	Suy diễn
+15:51:48 From  19127444  Ngô Đăng Khoa  to  Everyone:
+	Suy diễn
+15:51:48 From  19127518 - Lê Hoàng Thịnh Phước  to  Everyone:
+	suy diễn
+15:51:48 From  Duy Trần Quang  to  Everyone:
+	suy diễn
+15:51:49 From  19127281-T.M.Thiện  to  Everyone:
+	suy diễn
+15:51:49 From  19127083 Nguyễn Hữu Tuấn  to  Everyone:
+	inferential
+15:51:49 From  19127473 - Nguyễn Tấn Minh  to  Everyone:
+	suy diễn
+15:51:50 From  18127133 - La Hoàng Long  to  Everyone:
+	suy diễn
+15:51:50 From  19127021 Ho Anh Dung  to  Everyone:
+	suy diễn
+15:51:50 From  19127326-V.T.An  to  Everyone:
+	suy diễn
+15:51:50 From  19127630- Trần Quốc Việt  to  Everyone:
+	suy diễn
+15:51:51 From  19127474 - Phạm Cao Minh  to  Everyone:
+	suy diễn
+15:51:51 From  19127399 - Huỳnh Cao Nhật Hiếu  to  Everyone:
+	suy diễn
+15:51:51 From  Nguyễn Minh Trí 19127595  to  Everyone:
+	Suy diễn
+15:51:52 From  19127516  - Trần Xuân Phước  to  Everyone:
+	suy diễn
+15:51:52 From  19127330-L.T.Anh  to  Everyone:
+	suy diễn
+15:51:52 From  19127347_ Kiều Hải Đăng  to  Everyone:
+	suy diễn ạ
+15:51:52 From  19127472 - Nguyễn Bá Minh  to  Everyone:
+	suy diễn
+15:51:52 From  19127642_Võ Nhất Huy  to  Everyone:
+	suy diễn
+15:51:53 From  19127593 - Lê Tiến Trí  to  Everyone:
+	suy diễn
+15:51:53 From  19127135_Pham Bao Han  to  Everyone:
+	suy diễn
+15:51:54 From  19127037 - Võ Bách Khôi  to  Everyone:
+	mô tả
+15:51:54 From  19127177_NguyenDangKhoa  to  Everyone:
+	mô tả
+15:51:55 From  Phát Ngô Quốc  to  Everyone:
+	suy diễn
+15:51:56 From  19127400_Lã Minh Hiếu  to  Everyone:
+	Moo tar
+15:51:57 From  19127083 Nguyễn Hữu Tuấn  to  Everyone:
+	mo ta
+15:51:58 From  19127074 - Nguyễn Ngọc Uyên Trang  to  Everyone:
+	mô tả
+15:51:58 From  19127562_Chung Thế Thọ  to  Everyone:
+	mô tả
+15:51:58 From  19127587 Trương Chí Toàn  to  Everyone:
+	mô tả
+15:51:58 From  19127094 - Phạm Ngọc Thiên Ân  to  Everyone:
+	mô tả
+15:51:59 From  19127082_Nguyễn Tất Trường  to  Everyone:
+	mô tả
+15:52:01 From  Trần Hoàng Nam - 19127481  to  Everyone:
+	mô tả
+15:52:01 From  19127353 - Lê Tấn Đạt  to  Everyone:
+	mô tả ạ
+15:52:01 From  19127516  - Trần Xuân Phước  to  Everyone:
+	mô tả
+15:52:01 From  19127154_Nguyễn Thế Hưng  to  Everyone:
+	mô tả
+15:52:03 From  19127519_Nguyễn Ngọc Phước  to  Everyone:
+	suy dien
+15:52:04 From  19127078_Nguyễn Đỗ Thanh Trúc  to  Everyone:
+	mô tả
+15:52:07 From  19127645_Bùi Đăng Khoa  to  Everyone:
+	mô tả
+15:52:08 From  19127134 - Nguyễn Gia Hân  to  Everyone:
+	mô tả
+15:53:48 From  19127037 - Võ Bách Khôi  to  Everyone:
+	suy diễn
+15:53:48 From  19127403 - Nguyễn Trung Hiếu  to  Everyone:
+	Suy diễn
+15:53:49 From  19127094 - Phạm Ngọc Thiên Ân  to  Everyone:
+	suy diễn
+15:53:49 From  19127083 Nguyễn Hữu Tuấn  to  Everyone:
+	suy dien
+15:53:50 From  19127326-V.T.An  to  Everyone:
+	suy diễn
+15:53:50 From  19127400_Lã Minh Hiếu  to  Everyone:
+	Suy diễn
+15:53:50 From  19127587 Trương Chí Toàn  to  Everyone:
+	suy diễn
+15:53:50 From  19127177_NguyenDangKhoa  to  Everyone:
+	suy diễn
+15:53:50 From  Nguyễn Minh Trí 19127595  to  Everyone:
+	Suy diễn
+15:53:50 From  19127082_Nguyễn Tất Trường  to  Everyone:
+	suy diễn
+15:53:50 From  19127645_Bùi Đăng Khoa  to  Everyone:
+	suy diễn
+15:53:54 From  19127562_Chung Thế Thọ  to  Everyone:
+	suy diễn
+15:53:54 From  19127516  - Trần Xuân Phước  to  Everyone:
+	suy diễn
+15:53:55 From  19127135_Pham Bao Han  to  Everyone:
+	suy diễn
+15:53:55 From  19127358 Nguyễn Trọng Đạt  to  Everyone:
+	suy diễn
+15:53:55 From  19127474 - Phạm Cao Minh  to  Everyone:
+	suy diễn
+15:53:55 From  19127074 - Nguyễn Ngọc Uyên Trang  to  Everyone:
+	suy diễn
+15:53:55 From  19127630- Trần Quốc Việt  to  Everyone:
+	suy diễn
+15:53:55 From  19127078_Nguyễn Đỗ Thanh Trúc  to  Everyone:
+	suy diễn
+15:53:56 From  19127330-L.T.Anh  to  Everyone:
+	suy diễn
+15:53:56 From  Trần Nguyên Trung - 19127607  to  Everyone:
+	Suy diễn
+15:53:56 From  19127639 Phan Vĩ Giai  to  Everyone:
+	suy diễn
+15:53:56 From  19127009_Lữ Thế Vỹ  to  Everyone:
+	suy diễn
+15:53:56 From  19127353 - Lê Tấn Đạt  to  Everyone:
+	suy diễn ạ
+15:53:57 From  19127518 - Lê Hoàng Thịnh Phước  to  Everyone:
+	suy diễn
+15:53:57 From  Trần Hoàng Nam - 19127481  to  Everyone:
+	suy diễn
+15:53:57 From  Phát Ngô Quốc  to  Everyone:
+	suy diễn
+15:53:58 From  19127473 - Nguyễn Tấn Minh  to  Everyone:
+	suy diễn
+15:53:59 From  19127347_ Kiều Hải Đăng  to  Everyone:
+	suy diễn ạ
+15:54:01 From  19127519_Nguyễn Ngọc Phước  to  Everyone:
+	suy diễn
+15:54:01 From  19127134 - Nguyễn Gia Hân  to  Everyone:
+	suy diễn
+15:54:02 From  19127154_Nguyễn Thế Hưng  to  Everyone:
+	suy diễn
+15:54:03 From  19127281-T.M.Thiện  to  Everyone:
+	suy diễn ạ
+15:54:03 From  18127133 - La Hoàng Long  to  Everyone:
+	suy diễn
+15:54:03 From  19127399 - Huỳnh Cao Nhật Hiếu  to  Everyone:
+	suy diễn
+15:54:05 From  Duy Trần Quang  to  Everyone:
+	Suy diễn
+15:56:16 From  18127133 - La Hoàng Long  to  Everyone:
+	dạ ko
+15:56:18 From  19127083 Nguyễn Hữu Tuấn  to  Everyone:
+	da khong
+15:56:18 From  19127082_Nguyễn Tất Trường  to  Everyone:
+	không ạ
+15:56:18 From  19127177_NguyenDangKhoa  to  Everyone:
+	kdaj k
+15:56:18 From  19127347_ Kiều Hải Đăng  to  Everyone:
+	dạ không
+15:56:21 From  19127400_Lã Minh Hiếu  to  Everyone:
+	dạ k
+15:56:22 From  19127078_Nguyễn Đỗ Thanh Trúc  to  Everyone:
+	dạ k
+15:59:43 From  19127400_Lã Minh Hiếu  to  Everyone:
+	tình nguyện viên ngủ ít hơn 6 giờ và những người ngủ 8 tiếng 1 ngày là thống kê mô tả
+15:59:55 From  19127021 Ho Anh Dung  to  Everyone:
+	mô tả là cái số lượng câu trả lời đúng của mỗi nhóm, suy diễn là cái so sánh
+15:59:55 From  19127645_Bùi Đăng Khoa  to  Everyone:
+	gấp 4 lần là thông kê suy diễn
+15:59:57 From  19127082_Nguyễn Tất Trường  to  Everyone:
+	4 lần ít chính xác là suy diễn
+15:59:57 From  19127400_Lã Minh Hiếu  to  Everyone:
+	sự so sanh hai nhóm đó là suy diễn ạ
+16:01:19 From  19127094 - Phạm Ngọc Thiên Ân  to  Everyone:
+	thống kê mô tả là lấy câu trả lời đúng sai của từng người trong mỗi nhóm, rồi từ đó xem sự khác biệt (4 lần). Suy diễn là cho tất cả mọi người
+16:01:49 From  19127353 - Lê Tấn Đạt  to  Everyone:
+	thống kê mô tả là hai thống kê về số người ngủ ít hơn 6h và số người ngủ ít nhấ 8 tiếng còn thống kê suy diễn là sự so sánh giữa chúng
+16:01:50 From  19127083 Nguyễn Hữu Tuấn  to  Everyone:
+	A = volunteers has 6 hours for sleep : mo ta
+	B = volunteers has 8 hours for sleep : mo ta
+	A = 4B khi tra loi sai : suy dien
+16:02:12 From  19127154_Nguyễn Thế Hưng  to  Everyone:
+	Mô tả: có nhóm tình nguyện viên trả lời sai nhiều hơn 4 lần so với nhóm tình nguyện khác	Suy diễn là tìm ra đc nhóm nhỏ hơn 6h với nhóm 8h
+16:02:15 From  19127177_NguyenDangKhoa  to  Everyone:
+	tnv: mô tả, người ngủ 6 tiêng sai hơn 4 lần 8 tiếng: suy diễn
+16:02:21 From  19127347_ Kiều Hải Đăng  to  Everyone:
+	tình nguyện viên ngủ ít nhất 6 tiếng 1 ngày trả lời sai (Mô tả)	==> sai gấp 4 lần (suy diễn)	tình nguyện viên ngủ ít nhất 8 tiếng 1 ngày trả lời ít sai hơn(Mô tả)
+16:02:26 From  19127281-T.M.Thiện  to  Everyone:
+	những câu trả lời của  tình nguyên viên ngủ ít hơn 6 tiếng và ít hơn 8 giờ là thống kê mô tả	thống kê suy diễn là trả lời sai gấp 4 lần
+16:06:02 From  19127353 - Lê Tấn Đạt  to  Everyone:
+	bị nhiễu thông số :v
+16:06:07 From  19127639 Phan Vĩ Giai  to  Everyone:
+	suy diễn sẽ sai ạ
+16:06:08 From  19127082_Nguyễn Tất Trường  to  Everyone:
+	thống kê không chính xác
+16:06:08 From  19127400_Lã Minh Hiếu  to  Everyone:
+	ảnh hưởng đến kết luận cuối cùng
+16:06:10 From  Nguyễn Minh Trí 19127595  to  Everyone:
+	kết luận sai
+16:06:10 From  19127177_NguyenDangKhoa  to  Everyone:
+	kết luận sẽ sai
+16:06:10 From  19127094 - Phạm Ngọc Thiên Ân  to  Everyone:
+	thì suy diễn sẽ không chắc chắn, vẫn có thể đúng nhưng xác suất thấp
+16:06:11 From  19127516  - Trần Xuân Phước  to  Everyone:
+	kết quả suy diễn bị sai
+16:06:17 From  19127078_Nguyễn Đỗ Thanh Trúc  to  Everyone:
+	kết luận rút ra sẽ bị sai
+16:06:40 From  19127403 - Nguyễn Trung Hiếu  to  Everyone:
+	Kết luận có thể lệch
+16:11:18 From  19127347_ Kiều Hải Đăng  to  Everyone:
+	dạ nhớ
+16:12:41 From  19127094 - Phạm Ngọc Thiên Ân  to  Everyone:
+	em nghĩ là có
+16:12:42 From  19127083 Nguyễn Hữu Tuấn  to  Everyone:
+	da co
+16:12:44 From  19127177_NguyenDangKhoa  to  Everyone:
+	dạ có
+16:12:44 From  19127037 - Võ Bách Khôi  to  Everyone:
+	dạ có
+16:12:44 From  19127347_ Kiều Hải Đăng  to  Everyone:
+	dạ có
+16:12:45 From  19127518 - Lê Hoàng Thịnh Phước  to  Everyone:
+	dạ có
+16:12:45 From  19127021 Ho Anh Dung  to  Everyone:
+	dạ vẫn có
+16:12:46 From  19127642_Võ Nhất Huy  to  Everyone:
+	Dạ có
+16:12:49 From  19127326-V.T.An  to  Everyone:
+	da lech
+16:12:52 From  19127645_Bùi Đăng Khoa  to  Everyone:
+	có những lệch chap nhận được
+16:12:53 From  19127639 Phan Vĩ Giai  to  Everyone:
+	dạ có
+16:13:38 From  18127133 - La Hoàng Long  to  Everyone:
+	thiên vị ạ
+16:15:40 From  19127347_ Kiều Hải Đăng  to  Everyone:
+	vẫn bias ạ
+16:15:40 From  19127177_NguyenDangKhoa  to  Everyone:
+	vẫn có ạ
+16:15:40 From  19127400_Lã Minh Hiếu  to  Everyone:
+	Thiên vị
+16:15:41 From  19127083 Nguyễn Hữu Tuấn  to  Everyone:
+	da co
+16:15:41 From  19127639 Phan Vĩ Giai  to  Everyone:
+	dạ có bias
+16:15:41 From  19127281-T.M.Thiện  to  Everyone:
+	dạ có
+16:15:42 From  19127074 - Nguyễn Ngọc Uyên Trang  to  Everyone:
+	Dạ có
+16:15:43 From  19127326-V.T.An  to  Everyone:
+	có ạ
+16:15:43 From  Nguyễn Minh Trí 19127595  to  Everyone:
+	dạ có
+16:15:43 From  19127593 - Lê Tiến Trí  to  Everyone:
+	dạ có
+16:15:47 From  Phát Ngô Quốc  to  Everyone:
+	có ạ
+16:15:48 From  19127078_Nguyễn Đỗ Thanh Trúc  to  Everyone:
+	dạ có
+16:15:52 From  19127332_NguyenNamAnh  to  Everyone:
+	dạ sẽ bị biased !
+16:22:11 From  18127133 - La Hoàng Long  to  Everyone:
+	3 ạ
+16:22:11 From  19127021 Ho Anh Dung  to  Everyone:
+	cái số 3
+16:22:12 From  19127281-T.M.Thiện  to  Everyone:
+	cách 3 ạ
+16:22:13 From  19127177_NguyenDangKhoa  to  Everyone:
+	pp thứ 3 ạ
+16:22:13 From  19127645_Bùi Đăng Khoa  to  Everyone:
+	cách 3
+16:22:14 From  19127347_ Kiều Hải Đăng  to  Everyone:
+	phương pháp 3 ạ
+16:22:17 From  19127074 - Nguyễn Ngọc Uyên Trang  to  Everyone:
+	cách 3
+16:22:17 From  19127083 Nguyễn Hữu Tuấn  to  Everyone:
+	3 a
+16:22:18 From  19127593 - Lê Tiến Trí  to  Everyone:
+	dạ 3
+16:22:18 From  19127399 - Huỳnh Cao Nhật Hiếu  to  Everyone:
+	câch 3
+16:22:18 From  19127403 - Nguyễn Trung Hiếu  to  Everyone:
+	3 ạ
+16:22:18 From  19127587 Trương Chí Toàn  to  Everyone:
+	cách 3
+16:22:19 From  19127400_Lã Minh Hiếu  to  Everyone:
+	cách 3 ạ
+16:22:20 From  19127078_Nguyễn Đỗ Thanh Trúc  to  Everyone:
+	pp 3 ạ
+16:22:20 From  19127518 - Lê Hoàng Thịnh Phước  to  Everyone:
+	cách 3 ạ
+16:22:22 From  19127134 - Nguyễn Gia Hân  to  Everyone:
+	cách 3
+16:22:22 From  19127326-V.T.An  to  Everyone:
+	dạ 3 cách
+16:22:23 From  19127135_Pham Bao Han  to  Everyone:
+	3
+16:22:25 From  19127474 - Phạm Cao Minh  to  Everyone:
+	cách 3
+16:22:26 From  19127326-V.T.An  to  Everyone:
+	cách 3
+16:29:03 From  19127347_ Kiều Hải Đăng  to  Everyone:
+	bias ạ
+16:29:03 From  19127094 - Phạm Ngọc Thiên Ân  to  Everyone:
+	biased
+16:29:04 From  19127399 - Huỳnh Cao Nhật Hiếu  to  Everyone:
+	bias
+16:29:05 From  19127416_Mạc Văn Hưng  to  Everyone:
+	Biased ạ
+16:29:07 From  19127645_Bùi Đăng Khoa  to  Everyone:
+	dạ không ổn
+16:29:07 From  18127133 - La Hoàng Long  to  Everyone:
+	có ạ
+16:29:07 From  19127083 Nguyễn Hữu Tuấn  to  Everyone:
+	da biased
+16:29:08 From  19127403 - Nguyễn Trung Hiếu  to  Everyone:
+	biased
+16:29:08 From  19127281-T.M.Thiện  to  Everyone:
+	biased
+16:29:08 From  19127326-V.T.An  to  Everyone:
+	dạ biased
+16:29:09 From  19127519_Nguyễn Ngọc Phước  to  Everyone:
+	bias
+16:29:09 From  19127037 - Võ Bách Khôi  to  Everyone:
+	dạ biased
+16:29:09 From  19127639 Phan Vĩ Giai  to  Everyone:
+	dạ có
+16:29:10 From  19127474 - Phạm Cao Minh  to  Everyone:
+	Có ạ
+16:29:11 From  19127516  - Trần Xuân Phước  to  Everyone:
+	dạ bị
+16:29:11 From  19127400_Lã Minh Hiếu  to  Everyone:
+	Biased ạ
+16:29:11 From  19127358 Nguyễn Trọng Đạt  to  Everyone:
+	biased
+16:29:12 From  Phát Ngô Quốc  to  Everyone:
+	biased
+16:29:13 From  19127078_Nguyễn Đỗ Thanh Trúc  to  Everyone:
+	dạ có
+16:29:14 From  19127518 - Lê Hoàng Thịnh Phước  to  Everyone:
+	có biased
+16:29:15 From  18127133 - La Hoàng Long  to  Everyone:
+	biased
+16:29:15 From  19127135_Pham Bao Han  to  Everyone:
+	có bị biased
+16:29:41 From  19127347_ Kiều Hải Đăng  to  Everyone:
+	bias ạ
+16:29:43 From  19127094 - Phạm Ngọc Thiên Ân  to  Everyone:
+	biased
+16:29:43 From  19127326-V.T.An  to  Everyone:
+	dạ có
+16:29:43 From  19127083 Nguyễn Hữu Tuấn  to  Everyone:
+	da biased
+16:29:43 From  Nguyễn Minh Trí 19127595  to  Everyone:
+	dạ có
+16:29:44 From  Phát Ngô Quốc  to  Everyone:
+	vẫn biased
+16:29:44 From  19127403 - Nguyễn Trung Hiếu  to  Everyone:
+	Cos
+16:29:45 From  19127134 - Nguyễn Gia Hân  to  Everyone:
+	có
+16:29:46 From  19127281-T.M.Thiện  to  Everyone:
+	dạ có
+16:29:47 From  19127444  Ngô Đăng Khoa  to  Everyone:
+	da co
+16:29:47 From  19127562_Chung Thế Thọ  to  Everyone:
+	dạ có
+16:29:47 From  18127133 - La Hoàng Long  to  Everyone:
+	vẫn bị ạ
+16:29:47 From  19127519_Nguyễn Ngọc Phước  to  Everyone:
+	bias
+16:29:48 From  19127332_NguyenNamAnh  to  Everyone:
+	có bị lệch !
+16:29:48 From  19127135_Pham Bao Han  to  Everyone:
+	có ạ
+16:29:49 From  19127078_Nguyễn Đỗ Thanh Trúc  to  Everyone:
+	có  bias
+16:29:50 From  19127474 - Phạm Cao Minh  to  Everyone:
+	Có
+16:29:50 From  19127518 - Lê Hoàng Thịnh Phước  to  Everyone:
+	vẫn có
+16:29:51 From  19127400_Lã Minh Hiếu  to  Everyone:
+	Biased ạ
+16:29:52 From  19127516  - Trần Xuân Phước  to  Everyone:
+	dạ có
+16:30:01 From  19127347_ Kiều Hải Đăng  to  Everyone:
+	bias ạ
+16:30:03 From  19127083 Nguyễn Hữu Tuấn  to  Everyone:
+	da biased
+16:30:04 From  19127403 - Nguyễn Trung Hiếu  to  Everyone:
+	có
+16:30:04 From  Nguyễn Minh Trí 19127595  to  Everyone:
+	dạ có
+16:30:06 From  19127326-V.T.An  to  Everyone:
+	dạ có
+16:30:07 From  19127330-L.T.Anh  to  Everyone:
+	dạ có
+16:30:08 From  19127399 - Huỳnh Cao Nhật Hiếu  to  Everyone:
+	bias
+16:30:08 From  19127518 - Lê Hoàng Thịnh Phước  to  Everyone:
+	dạ cí
+16:30:08 From  19127474 - Phạm Cao Minh  to  Everyone:
+	Có
+16:30:08 From  19127593 - Lê Tiến Trí  to  Everyone:
+	dạ có
+16:30:09 From  19127078_Nguyễn Đỗ Thanh Trúc  to  Everyone:
+	dạ có
+16:30:10 From  19127074 - Nguyễn Ngọc Uyên Trang  to  Everyone:
+	dạ bias
+16:30:10 From  19127639 Phan Vĩ Giai  to  Everyone:
+	có
+16:30:10 From  19127094 - Phạm Ngọc Thiên Ân  to  Everyone:
+	dạ có
+16:30:11 From  19127519_Nguyễn Ngọc Phước  to  Everyone:
+	da co
+16:30:11 From  18127133 - La Hoàng Long  to  Everyone:
+	dạ có
+16:30:11 From  19127516  - Trần Xuân Phước  to  Everyone:
+	dạ có
+16:30:12 From  19127281-T.M.Thiện  to  Everyone:
+	dạ có
+16:30:12 From  Phát Ngô Quốc  to  Everyone:
+	giảm hơn ạ
+16:30:13 From  19127332_NguyenNamAnh  to  Everyone:
+	khả năng cao là vẫn bị
+16:30:29 From  19127347_ Kiều Hải Đăng  to  Everyone:
+	có ạ
+16:30:30 From  19127083 Nguyễn Hữu Tuấn  to  Everyone:
+	da van bi
+16:30:31 From  19127358 Nguyễn Trọng Đạt  to  Everyone:
+	có
+16:30:31 From  19127094 - Phạm Ngọc Thiên Ân  to  Everyone:
+	biased
+16:30:31 From  18127133 - La Hoàng Long  to  Everyone:
+	vẫn có ạ
+16:30:31 From  19127326-V.T.An  to  Everyone:
+	dạ có
+16:30:32 From  19127403 - Nguyễn Trung Hiếu  to  Everyone:
+	có
+16:30:33 From  19127518 - Lê Hoàng Thịnh Phước  to  Everyone:
+	vẫn có ạ
+16:30:33 From  19127416_Mạc Văn Hưng  to  Everyone:
+	biased
+16:30:33 From  Duy Trần Quang  to  Everyone:
+	có ạ
+16:30:33 From  19127134 - Nguyễn Gia Hân  to  Everyone:
+	vẫn bị ạ
+16:30:33 From  19127519_Nguyễn Ngọc Phước  to  Everyone:
+	da co
+16:30:34 From  19127474 - Phạm Cao Minh  to  Everyone:
+	có
+16:30:34 From  19127630- Trần Quốc Việt  to  Everyone:
+	bias
+16:30:34 From  19127399 - Huỳnh Cao Nhật Hiếu  to  Everyone:
+	bias
+16:30:34 From  19127330-L.T.Anh  to  Everyone:
+	dạ có
+16:30:35 From  Phát Ngô Quốc  to  Everyone:
+	giảm hơn
+16:30:35 From  19127078_Nguyễn Đỗ Thanh Trúc  to  Everyone:
+	daj có
+16:30:36 From  19127400_Lã Minh Hiếu  to  Everyone:
+	dạ vẫn bị biased
+16:30:42 From  18127133 - La Hoàng Long  to  Everyone:
+	chắc kiểu gì cũng có :))
+16:30:52 From  19127094 - Phạm Ngọc Thiên Ân  to  Everyone:
+	cái thứ 3
+16:30:55 From  19127587 Trương Chí Toàn  to  Everyone:
+	4
+16:30:55 From  Nguyễn Minh Trí 19127595  to  Everyone:
+	dạ 4
+16:30:56 From  19127444  Ngô Đăng Khoa  to  Everyone:
+	so 3
+16:30:56 From  19127281-T.M.Thiện  to  Everyone:
+	đáp án 4 ạ
+16:30:57 From  19127134 - Nguyễn Gia Hân  to  Everyone:
+	3
+16:30:57 From  19127645_Bùi Đăng Khoa  to  Everyone:
+	3
+16:30:57 From  19127400_Lã Minh Hiếu  to  Everyone:
+	Đáp án 4
+16:30:57 From  19127326-V.T.An  to  Everyone:
+	số 3
+16:30:58 From  19127330-L.T.Anh  to  Everyone:
+	4
+16:30:58 From  19127074 - Nguyễn Ngọc Uyên Trang  to  Everyone:
+	4
+16:30:58 From  Trần Hoàng Nam - 19127481  to  Everyone:
+	3
+16:30:59 From  19127083 Nguyễn Hữu Tuấn  to  Everyone:
+	3
+16:30:59 From  Trần Nguyên Trung - 19127607  to  Everyone:
+	3 ạ
+16:30:59 From  18127133 - La Hoàng Long  to  Everyone:
+	cái 3 ạ
+16:31:00 From  19127399 - Huỳnh Cao Nhật Hiếu  to  Everyone:
+	3
+16:31:01 From  Duy Trần Quang  to  Everyone:
+	số 3
+16:31:01 From  19127518 - Lê Hoàng Thịnh Phước  to  Everyone:
+	3 ạ
+16:31:01 From  19127177_NguyenDangKhoa  to  Everyone:
+	4 ạ
+16:31:01 From  19127630- Trần Quốc Việt  to  Everyone:
+	số 3
+16:31:01 From  19127562_Chung Thế Thọ  to  Everyone:
+	3
+16:31:02 From  19127021 Ho Anh Dung  to  Everyone:
+	3
+16:31:02 From  19127135_Pham Bao Han  to  Everyone:
+	3 ạ
+16:31:02 From  19127416_Mạc Văn Hưng  to  Everyone:
+	3
+16:31:03 From  19127154_Nguyễn Thế Hưng  to  Everyone:
+	3
+16:31:04 From  Phát Ngô Quốc  to  Everyone:
+	4
+16:31:04 From  19127403 - Nguyễn Trung Hiếu  to  Everyone:
+	4
+16:31:04 From  19127473 - Nguyễn Tấn Minh  to  Everyone:
+	4
+16:31:06 From  19127519_Nguyễn Ngọc Phước  to  Everyone:
+	3
+16:31:07 From  19127347_ Kiều Hải Đăng  to  Everyone:
+	1 ạ
+16:31:08 From  19127516  - Trần Xuân Phước  to  Everyone:
+	3
+16:31:08 From  19127332_NguyenNamAnh  to  Everyone:
+	cái thứ 4
+16:31:09 From  19127078_Nguyễn Đỗ Thanh Trúc  to  Everyone:
+	3
+16:31:10 From  19127082_Nguyễn Tất Trường  to  Everyone:
+	3
+16:31:16 From  19127037 - Võ Bách Khôi  to  Everyone:
+	3
+16:33:29 From  19127639 Phan Vĩ Giai  to  Everyone:
+	theo em thay vì lấy 100 cái lá thì mình lấy nhièu hơn ạ
+16:33:33 From  19127642_Võ Nhất Huy  to  Everyone:
+	Lấy mẫu số lượng lớn hơn
+16:33:41 From  19127083 Nguyễn Hữu Tuấn  to  Everyone:
+	chia thanh 5 vung, moi vung 10 la duoi dat 10 la tren cay
+16:34:00 From  Phát Ngô Quốc  to  Everyone:
+	t có thể điều tra các loại cây ở khu vực, xong chia phần tram ra để lấy số lượng lá trên cây và dưới đất thích hợp
+16:34:01 From  19127347_ Kiều Hải Đăng  to  Everyone:
+	em lấy 5 lá trên cây và 5 lá dưới đất của tất cả các cây trong vùng
+16:34:02 From  19127177_NguyenDangKhoa  to  Everyone:
+	chia theo loài cây trong khu vực xong lấy
+16:34:05 From  19127281-T.M.Thiện  to  Everyone:
+	chai ra những loại cây khác nhau
+16:34:06 From  19127519_Nguyễn Ngọc Phước  to  Everyone:
+	lấy cách 4 nhưng cho nhiều loại cây không chỉ cây sồi
+16:34:07 From  Duy Trần Quang  to  Everyone:
+	lấy 10 từ 10 loại cây ngẫu nhiên lấy 5 trên cành 5 dưới đất
+16:34:23 From  19127326-V.T.An  to  Everyone:
+	lấy của nhiều loại cây
+16:34:37 From  19127134 - Nguyễn Gia Hân  to  Everyone:
+	mỗi loại cây lấy 1 số lượng lá trên cành và dưới đất
+16:34:39 From  19127400_Lã Minh Hiếu  to  Everyone:
+	Chia Theo từng loại cây, và nhặt lá từng cây đó đã rụng và còn trên cây
+16:35:10 From  19127094 - Phạm Ngọc Thiên Ân  to  Everyone:
+	khó cực
+16:35:11 From  Phát Ngô Quốc  to  Everyone:
+	khó
+16:35:11 From  19127177_NguyenDangKhoa  to  Everyone:
+	dạ khó
+16:35:12 From  19127403 - Nguyễn Trung Hiếu  to  Everyone:
+	khó
+16:35:12 From  19127083 Nguyễn Hữu Tuấn  to  Everyone:
+	da kho
+16:35:12 From  19127516  - Trần Xuân Phước  to  Everyone:
+	khó
+16:35:12 From  19127347_ Kiều Hải Đăng  to  Everyone:
+	dạ khó
+16:35:14 From  19127562_Chung Thế Thọ  to  Everyone:
+	khó
+16:35:14 From  19127082_Nguyễn Tất Trường  to  Everyone:
+	khó ạ
+16:35:16 From  19127518 - Lê Hoàng Thịnh Phước  to  Everyone:
+	khó ạ
+16:47:58 From  19127519_Nguyễn Ngọc Phước  to  Everyone:
+	em lên google copy mẫu người ta lấy rồi
+16:48:07 From  19127082_Nguyễn Tất Trường  to  Everyone:
+	đứng trước cổng trường, ktx hỏi :)))
+16:48:18 From  19127587 Trương Chí Toàn  to  Everyone:
+	hỏi trong lớp
+16:48:18 From  19127083 Nguyễn Hữu Tuấn  to  Everyone:
+	da truoc tien se lay mau cua sinh vien cung truong truoc a
+16:48:25 From  19127177_NguyenDangKhoa  to  Everyone:
+	hỏi bạn bè
+16:48:53 From  19127326-V.T.An  to  Everyone:
+	khảo sát nhiều trường lựa những trường có học phí cao và học phí thấp và trung bình  ạ
+16:49:01 From  19127518 - Lê Hoàng Thịnh Phước  to  Everyone:
+	làm cái khảo sát share nhờ bạn bè điền khảo sát ạ
+16:49:15 From  19127400_Lã Minh Hiếu  to  Everyone:
+	nhờ mối quan hệ
+16:49:22 From  18127133 - La Hoàng Long  to  Everyone:
+	hỏi mỗi trường mình đã khó
+16:49:28 From  19127082_Nguyễn Tất Trường  to  Everyone:
+	vào các group sinh viên các trường đại học tạo khảo sát ạ
+16:49:34 From  19127587 Trương Chí Toàn  to  Everyone:
+	làm link khảo sát r share trên mạng
+16:49:40 From  19127518 - Lê Hoàng Thịnh Phước  to  Everyone:
+	nhờ bn bè hc trg đó hỏi dùm ạ
